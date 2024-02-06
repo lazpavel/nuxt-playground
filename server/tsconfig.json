@@ -1,3 +1,7 @@
 {
+  "compilerOptions": {
+    "moduleResolution": "node",
+  },
+  
   "extends": "../.nuxt/tsconfig.server.json"
 }
